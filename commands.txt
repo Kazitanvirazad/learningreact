@@ -1,0 +1,17 @@
+Create React Application command
+npm create vite@4.1.0
+
+minimum nodejs version required
+v16
+
+To run React Application (if app created by using vite)
+npm run dev
+
+To install bootstrap
+npm i bootstrap@5.2.3   //5.2.3 is the version of bootstrap
+
+To import bootstrap in tsx file from bootstrap npm package
+import 'bootstrap/dist/css/bootstrap.css'
+
+In React we follow PascalCasing -
+We capitalize the first letter of every word for filenames and component names
